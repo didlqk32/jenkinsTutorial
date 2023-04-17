@@ -6,7 +6,7 @@
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there git test (updated by dowon)</h1>
-    <h2>Today is now <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
+    <h2>Today is now test<fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
 </body>
 </html>
